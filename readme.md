@@ -7,7 +7,7 @@
 
 Just want to run it? Download the executable and go:
 
-1. Go to the [Releases](https://github.com/hetpatel2102/Sentry_1.0.0/releases) page or download `Sentry.exe` directly from the repo
+1. Download `Sentry.exe` directly from the repo
 2. Right-click `Sentry.exe` → **Run as Administrator**
 3. That's it — no Python, no pip, no setup
 
